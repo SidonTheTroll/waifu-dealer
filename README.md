@@ -16,4 +16,8 @@ Selecting one of the options opens an image of a waifu from the selected categor
 
 #### `waifu: Get NSFW`
 
-Selecting one of the options opens an image of a waifu (NSFW) from the selected category in the new window. A category says **Trap** so heads up. 
+Selecting one of the options opens an image of a waifu (NSFW) from the selected category in the new window. A category also says **Trap** so heads up. 
+
+## Contribute 
+
+Let me know in my [Discord Server](https://discord.gg/gBPVMWbjFf) if you want new features, suggest changes or add stuff yourself. 
