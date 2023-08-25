@@ -8,7 +8,7 @@ Get random pics of waifus while you code!
 
 ## Features 
 
-Get random pics of waifus from an [API](https://waifu.pics). *NSFW Commands will be added in future.*
+Get random pics of waifus from an [API](https://waifu.pics/docs). *NSFW Commands will be added in future.*
 
 #### `waifu: Get Safe`
 
